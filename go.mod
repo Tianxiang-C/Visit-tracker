@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-widget-starter
+module github.com/Tianxiang-C/wowchemy-widget-Visit-tracker
 
 go 1.15
